@@ -1,0 +1,3 @@
+ File in write modeHi! I am a penguin. I'm an year old 
+ File in append modeHi! I am a penguin. I'm an year oldHey everyone!
+Welcome to Codingal.
