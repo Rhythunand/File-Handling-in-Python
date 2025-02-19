@@ -1,0 +1,15 @@
+file_r = open('Codingal.txt', 'r')
+print("First Student")
+print(file_r.readline())
+print("Second Student")
+print(file_r.readline())
+print("Third Student")
+print(file_r.readline())
+file_r.close()
+
+file_w = open('sample_doc.txt', 'w')
+file_w.write("Monitor : Roy")
+
+file_a = open("Codingal.txt", 'a')
+file_a.write("New Admission")
+file_a.write("Name : Wade, Age : 13, Favourite Subject : P.E")
